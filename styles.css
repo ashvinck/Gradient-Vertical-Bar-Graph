@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  height: 100vh;
+  padding: 25px;
+}
+.input-row, .graph-row{
+  padding: 25px;
+}
+.input-wrapper{
+  padding: 20px;
+}
+.title{
+  color:#003f73 ;
+  padding: 10px;
+}
+.form-control {
+  background-color: #c2e3ff !important;
+  color:#003f73 !important;
+  margin: 10px;
+}
+.form-control::placeholder {
+  color: #003f73 !important;
+  font-weight: 600;
+}
+.percent{
+  color: #003f73;
+  padding: 25px;
+}
